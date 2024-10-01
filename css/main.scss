@@ -1,0 +1,33 @@
+/* main.css */
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+/* Estilos de la cabecera */
+
+header {
+    background-color: #f9f9f9;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+p {
+    font-size: 1.1rem;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.btn-primary {
+    background-color: #5368df;
+    border-color: #5368df;
+}
+
+.btn-light {
+    color: #5368df;
+    border-color: #5368df;
+}
