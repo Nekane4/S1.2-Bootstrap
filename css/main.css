@@ -11993,4 +11993,83 @@ img {
 .btn-light {
   color: #5368df;
   border-color: #5368df;
+}
+
+/*Estilos de la sección de features*/
+.features-section {
+  padding: 60px 0;
+  background-color: #ffffff;
+}
+
+.tab-content {
+  margin-top: 20px;
+}
+
+.tab-pane {
+  padding: 20px;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+  background-color: #f8f9fa;
+}
+
+.tab-pane h5, .tab-pane .h5 {
+  font-weight: 600;
+}
+
+.nav-link.active {
+  border-bottom: 3px solid #5267DF;
+}
+
+.feature-description {
+  margin-top: 20px;
+  color: gray;
+}
+
+.btn-more-info {
+  background-color: #5267DF;
+  color: white;
+  border: none;
+}
+
+.btn-more-info:hover {
+  background-color: #4154B3;
+}
+
+.features-section {
+  padding: 60px 0;
+  background-color: #ffffff;
+}
+
+.tab-content {
+  margin-top: 20px;
+}
+
+.tab-pane {
+  padding: 20px;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+  background-color: #f8f9fa;
+}
+
+.tab-pane h5, .tab-pane .h5 {
+  font-weight: 600;
+}
+
+.nav-link.active {
+  border-bottom: 3px solid #5267DF;
+}
+
+.feature-description {
+  margin-top: 20px;
+  color: gray;
+}
+
+.btn-more-info {
+  background-color: #5267DF;
+  color: white;
+  border: none;
+}
+
+.btn-more-info:hover {
+  background-color: #4154B3;
 }/*# sourceMappingURL=main.css.map */
